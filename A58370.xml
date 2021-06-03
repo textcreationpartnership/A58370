@@ -1,0 +1,503 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Reflections upon a form of prayer, lately set forth for the Jacobites of the Church of England, and of an abhorrence tendred by the late King, to some of our dissenting bishops, upon His present Majesty's landing</title>
+         </titleStmt>
+         <extent>Approx. 60KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A58370</idno><idno type="EEBO-CITATION">12827338</idno>
+  <idno type="VID">94285</idno>
+  <idno type="EEBO-PROQUEST">2240958577</idno>
+  
+            <idno type="STC">Wing R714</idno>
+            <idno type="STC">ESTC R10552</idno>
+            <idno type="OCLC">12827338</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A58370)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 94285)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 776:13)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Reflections upon a form of prayer, lately set forth for the Jacobites of the Church of England, and of an abhorrence tendred by the late King, to some of our dissenting bishops, upon His present Majesty's landing</title>
+               </titleStmt>
+               <extent>[4], 30, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Richard Baldwin ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1690.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Includes bibliographical references.</note>
+                  <note>Advertisement: p. [1]-[2] at end.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Church and state --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-09 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:94285:1"/>
+            <pb facs="tcp:94285:1"/>
+            <p>REFLECTIONS UPON A FORM of PRAYER, Lately set forth for the JACOBITES OF THE CHURCH of <hi>ENGLAND.</hi>
+            </p>
+            <p>AND Of an ABHORRENCE tendred by the Late King, to some of our <hi>Dissenting Bishops,</hi> upon His present Majesty's Landing.</p>
+            <p>
+               <hi>LONDON:</hi> Printed for <hi>Richard Baldwin,</hi> in the <hi>Old-Bayly.</hi> MDCXC.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:94285:2"/>
+            <pb facs="tcp:94285:2"/>
+            <head>PREFACE.</head>
+            <p>THose Treasonable Prayers which have occasion<g ref="char:EOLhyphen"/>ed my Reflections, having been conveyed into many Hands, with apparent purpose to raise Rebellion for <hi>God's Sake,</hi> against those Powers which himself has ordained; I thought it re<g ref="char:EOLhyphen"/>quisite to Publish the most venomous Parts of them, with an Antidote, which I hope may be sufficient for them who will not <hi>seek the Knowledg</hi> of Man's Law from the <hi>Priest's Lips.</hi>
+            </p>
+            <p>And those well-meaning Men, who have been misled into a dangerous <hi>Faction,</hi> by an Alarum cunningly pro<g ref="char:EOLhyphen"/>moted for the <hi>Monarchy,</hi> and the <hi>Church;</hi> will I hope, now at last, understand what <hi>Monarchy,</hi> and what <hi>Church,</hi> that cry has serv'd; and if they are not yet sensible of this, I despair that they ever should be, till the <hi>late King,</hi> through their Encouragement, should return with a <hi>French</hi> and <hi>Irish</hi> Army, to <hi>Establish Po<g ref="char:EOLhyphen"/>pery</hi> by a <hi>Parliament,</hi> pack'd by <hi>Surrenderers of Char<g ref="char:EOLhyphen"/>ters,</hi> and compos'd of Zealots for their <hi>Church</hi> and <hi>Monarchy;</hi> and then <hi>English Dragoons</hi> might be as famous as ever the <hi>French;</hi> or their own <hi>Judges, Ju<g ref="char:EOLhyphen"/>ries,</hi> and <hi>Gown-men,</hi> have been.</p>
+            <p>Then such might reap the Blessing of Perfidiousness to their Country, and would learn too late, h<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>w much better it would have been to have submitted to the Ju<g ref="char:EOLhyphen"/>stice of a forgiving People, than to be swallowed up in the common Desolation, for diverting some merciful
+<pb facs="tcp:94285:3"/> Punishments against some of <hi>their Party,</hi> who had been eminent enough to deserve to be made <hi>Examples.</hi>
+            </p>
+            <p>Tho I cannot pretend to the Accomplishment of a Traveller; yet I once was as far as <hi>Holland,</hi> where I must own that I met with great Civilities from one of our <hi>Dissenting Bishops,</hi> to whom I shall be glad to pay any Service consistent with my Duty to my <hi>Country.</hi> Being at <hi>Amsterdam,</hi> it may well be believed, that next, at least, to the curiosity of seeing the <hi>Long-Cel<g ref="char:EOLhyphen"/>lar,</hi> I would desire to see the <hi>Stadt-house,</hi> deservedly esteemed one of the Wonders of the World; from thence we might discern <hi>Utrecht,</hi> which as I remember, gave occasion to the <hi>English</hi> Merchant, who was with us, to observe, That the <hi>French</hi> Army, having in the time of <hi>D' Wits</hi> Ministry, advanced as far as <hi>Utrecht;</hi> the Senate at <hi>Amsterdam</hi> repair'd to that House, to consult what was best to be done in that Emergency; the greatest part of them seem'd inclined to make a Present of their Keys, preventing a demand of them; but the <hi>Schute</hi> or <hi>Sheriff,</hi> being a Man of Mettle, threat<g ref="char:EOLhyphen"/>ned to communicate this Counsel to the People, who were waiting without, expecting the issue, and sufficiently disposed to have prevented their treacherous giving them up to the perfidious Enemy. This Honesty of the <hi>Sheriff,</hi> chang'd the Counsels, made them resolve upon a Vigorous Defence, and the Army withdrew, being surprised at the Disappointment of their warm Expectation. And thus one brave Man, in effect, sav'd the City. I forbear to make Application, but leave it to their thoughts whom it most concerns.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:94285:3"/>
+            <head>REFLECTIONS UPON A FORM of PRAYER, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>THis is an Age of Wonders;</hi> was the beginning of some of the wisest and honestest Observations,<note place="margin">
+                  <hi>Vid.</hi> The Ap<g ref="char:EOLhyphen"/>peal from the private Cabal to the Parlia<g ref="char:EOLhyphen"/>ment, supposed to have been written by Se<g ref="char:EOLhyphen"/>cretary <hi>Tre<g ref="char:EOLhyphen"/>vor.</hi>
+               </note> which saw the Light in the Reign of King <hi>Charles</hi> II. But what would that Judicious <hi>Ob<g ref="char:EOLhyphen"/>server</hi> have said, if he had survived our late <hi>Re<g ref="char:EOLhyphen"/>volution,</hi> to have seen those who condemn it, to pretend to be the only Men of Merit under it; and that they who believe King <hi>James</hi> to be their <hi>Rightful</hi> King, are the best Supporters of the Monarchy under King <hi>WILLIAM</hi> and Queen <hi>MARY?</hi>
+            </p>
+            <p>These Men may, in their sense, honestly promise to <hi>maintain the Government, as 'tis established un<g ref="char:EOLhyphen"/>der King</hi> William <hi>and Queen</hi> Mary. For as they would therein make no Declaration of their Right, they leave a Scope for their serving that which they think the only established Government, which with them is King <hi>James</hi>'s, while King <hi>William</hi> bears only the Name of King.</p>
+            <pb n="2" facs="tcp:94285:4"/>
+            <p>
+               <note place="margin">A Form of Prayer and Humiliation for Gods Bles<g ref="char:EOLhyphen"/>sings upon His M<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>jesty, and his Domini<g ref="char:EOLhyphen"/>ons, and for removing and averting of Gods Judgments from this Church and State, <hi>Ed. An. 1690. p. 39.</hi>
+               </note>If any M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n doubts of this, I would entreat him to turn to the 39th Page of that Form of Prayer, which some of the <hi>New Separation</hi> have lately Published, where they may find these words.</p>
+            <q>
+               <hi>Restore to us again the publick Worship of thy Name, the reverent Administration of thy Sacraments: raise up the former Government both in Church and State, that we may be no longer without King, without Priest, without God in the World: But may once more enter into thy Courts with Praise, and serve thee with that Reve<g ref="char:EOLhyphen"/>rence, that Vnity and Order, as may be ac<g ref="char:EOLhyphen"/>ceptable in thy sight, through Iesus Christ our Lord.</hi> Amen.</q>
+            <p>This makes it plain beyond Contradiction, That they think we can have no Government without King <hi>James,</hi> or else they grosly mock <hi>God Al<g ref="char:EOLhyphen"/>mighty.</hi>
+            </p>
+            <p>These Men would be thought not to be in the least dangerous to the present Government, which they not only disown, but pray against; and cer<g ref="char:EOLhyphen"/>tainly, if they pray against it as an unlawful Usurpation, they will think themselves oblig'd by all means possible to restore the other. At least, no Man that reads the following Form, can doubt of this.</p>
+            <q>
+               <pb n="3" facs="tcp:94285:4"/>
+               <hi>O Most Powerful and ever Blessed Lord God, who art Glorious in Holiness,</hi>
+               <note place="margin">P. 59.</note>
+               <hi>Fear<g ref="char:EOLhyphen"/>ful in Praises, doing Wonders; we hum<g ref="char:EOLhyphen"/>bly beseech thee to look Compassionately on this Persecuted part of thy Church, now driven from thy publick Altars into Corners and secret Closets: that thy protection may be over us whereever we shall be Scatterd, and a remnant Preserved amongst us, by whom thy Name may be glorified, thy Sa<g ref="char:EOLhyphen"/>craments Administred,</hi>
+               <note place="margin">P. 60.</note>
+               <hi>and the Souls of thy Servants kept upright in the midst of a</hi> Corrupting <hi>and a</hi> Corrupted <hi>Generation. We Pray thee to be Gracious to</hi> our Prince, who for the Sins both of Priests and People is now kept out, <hi>and that in thy due time thou wouldest deal with him</hi> according to the Justice of his Cause; <hi>Comfort him O Lord in the sadness of his Spirit; Guide him in the Perplexity of his Mind, and support him in the Striegths and Necessities of his Fortunes. Raise him Friends abroad Con<g ref="char:EOLhyphen"/>vert or Confound the Hearts of his Enemies at home. Do some Mighty thing for him, which we in particular know not how to Pray for; And by the secret windings and powerful workings of thy Providence, make the stone which these Foolish Builders have rejected, the head-stone of the Corner. And O that it may Please thee to deal Gra<g ref="char:EOLhyphen"/>ciously with that</hi> remnant of the Lo<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>al No<g ref="char:EOLhyphen"/>bility, <hi>and all others of the Ruined Side, who have chosen rather to suffer in thy
+<pb n="4" facs="tcp:94285:5"/> Cause, than to Participate with the Sins of a more Successful Party?</hi>
+            </q>
+            <p n="1">1. I would gladly know of these zealous Gen<g ref="char:EOLhyphen"/>tlemen, what they think of those of their own Party, who by taking the Oath of Allegiance by Law required, tho' not in the Legal sence, have qualified themselves to Preach Sedition against <hi>King William</hi> and <hi>Queen Mary?</hi>
+            </p>
+            <p n="2">2. Whether the Sacraments may not be duely Administred by those Ministers of the Church of <hi>England,</hi> who have Sworn in the sincerity of their Hearts? Indeed they may seem to have set aside this question in their Prayer, that they may be no longer without <hi>Priests:</hi> which perhaps relates to the want of an Head of the Church, according to which the Late Kings <hi>Abdication</hi> was a virtual Suspension of all the Clergy.</p>
+            <p n="3">3. Whether that part of the Clergy which con<g ref="char:EOLhyphen"/>tinue in Possession of the Profits, or they who make profit of Preaching in publick, without con<g ref="char:EOLhyphen"/>forming to this Government, are within the Pro<g ref="char:EOLhyphen"/>vision of this Prayer? And by what Authority some of them now Preach without their Head, and against the express words of an Act of Parliament?</p>
+            <p n="4">4. Whether those of the Dissen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing Bishops and others, who invited His Present Majesty to take the Administration upon Him, immediately upon the Late King's withdrawing from <hi>London,</hi> may not in their sence be said, <hi>to participate with the Sins of a more successful Party?</hi>
+            </p>
+            <p n="5">5. Whether they can think to impose upon <hi>God Almighty</hi> with falshoods, as they have done and
+<pb n="5" facs="tcp:94285:5"/> yet do upon many well meaning men? and who of their Loyal Nobility has <hi>s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ffer'd</hi> and been <hi>oppressed,</hi>
+               <note place="margin">P. 60. P. 25. P. 60.</note> and <hi>ruined, for Righteousness</hi> and <hi>for Conscience sake,</hi> as they suggest?</p>
+            <p>'Tis certain they who read this Form of Prayer, will understand how well they have deserved the lenity of that Government which they disown, and which they now seem to think themselves enabled to cast off; and they who still would argue us i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>to an insensibility of their Proceedings, would do well to observe the next Prayer.</p>
+            <q>
+               <hi>Hear the Groans and Cry of all that are Afflicted, either outwardly or inwardly;</hi>
+               <note place="margin">P. 6.</note>
+               <hi>in Body or Soul: Especially such who being oppressed for Conscience sake, have no place to fly unto and no man careth for their Souls Listen Compassionately to the deep sighing of the Prisoners, And by thy Mighty Power deliver such, who for Obeying thee and a good Conscience are, or shall be</hi> designed to Death or Ruine. <hi>Soften the Hearts of all</hi> unrighteous Judges, who have the Power <hi>over us; and make them know with Trembling, That there is a Iudg higher than they. Send forth thy Light and thy Truth, and let them Preserve us. Protect and Defend our Sovereign Lord the King. O prepare thy Loving Mercy and Faithfulness, That they may Preserve him Strengthen his Hands and the hands of all that are put</hi> in Authority under him, <hi>with Iudgment and Iustice to cut off all
+<pb n="6" facs="tcp:94285:6"/> such workers of Iniquity, as turn</hi> Religion into Rebellion, <hi>and</hi> Faith into Faction; <hi>That they may never prevail against us, or Tri<g ref="char:EOLhyphen"/>umph</hi> in the Ruine of thy Church <hi>amongst us. To this end defend the King; and the whole Royal</hi> Family from all Treasons and Conspiracies. <hi>Bind up his Soul in the bundle of Life, and let no Weapon formed against him prosper. Be unto him a Helmet of Salva<g ref="char:EOLhyphen"/>tion and a strong Tower of Defence a<g ref="char:EOLhyphen"/>gainst the Face of his Enemies. Let his Reign be Prosperous, and his Days many. Make him glad now according to the time wherein thou hast afflicted him, and for the years wherein he hath suffer'd Adversity. Give him the necks of his Enemies; and also every day more and more the Hearts of his Subjects. As for those that are</hi> im<g ref="char:EOLhyphen"/>placab e <hi>cloath them with shame: but upon himself and his Posterity let the Crown for ever flourish. Into thy hands, O God, we entirely surrender and give up both him and our selves, and whatever concerns us,</hi> &amp;c.</q>
+            <p>Here 'tis observable,</p>
+            <p n="1">1. That as it is not to be presumed, that any of the Prisoners for whom they pray are or will be de<g ref="char:EOLhyphen"/>sign'd to <hi>death,</hi> unless they have committed, or shall commit Treason against their present Majesties, these peaceable men encourage Treason against that Power which God has set over them; and will have Treason, and traiterous Conspiracies to be
+<pb n="7" facs="tcp:94285:6"/> in Obedience to God, and a good Conscience.</p>
+            <p n="2">2. That they threaten with Gods Judgments, those Judges who shall pronounce Sentence against such, according to Law.</p>
+            <p n="3">3. They either suppose, That they who have Of<g ref="char:EOLhyphen"/>fices under Their present Majesties, act with King <hi>James</hi>'s Authority, or that some of them have Dormant Commissions from him, under which they may act with <hi>Judgment</hi> and <hi>Justice.</hi>
+            </p>
+            <p n="4">4. They suppose the Interest of God's Church to be bound up with a Popish King; and that the pre<g ref="char:EOLhyphen"/>valence of them that are Loyal to Their present Ma<g ref="char:EOLhyphen"/>jesties, would be <hi>to the ruin of</hi> God's <hi>Church.</hi>
+            </p>
+            <p n="5">5. They pray that God would <hi>defend their King, and the whole Royal Family from all Treason and Conspiracies.</hi> Wherein they pray, that <hi>God Al<g ref="char:EOLhyphen"/>mighty</hi> would work a Miracle, and make them true and faithful to King <hi>James,</hi> and King <hi>William</hi> at the same time; forgetting the Text which them<g ref="char:EOLhyphen"/>selves apply, <hi>viz. No Man can s<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rve two Ma<g ref="char:EOLhyphen"/>sters.</hi> Nay, they would have contradictory Pro<g ref="char:EOLhyphen"/>positions, to be true at the same time, and in the same respect; and they pray God to defend all the Royal Family from Treasons and Conspiracies, when their very Prayer is a Conspiracy against one, if not two of the Royal Family, whose Reign they call <hi>Tyranny,</hi> from which they pray that this Na<g ref="char:EOLhyphen"/>tion may be relieved, as appears by what follows.</p>
+            <q>
+               <hi>O most mighty God, the Lord of Hosts,</hi>
+               <note place="margin">Form of Prayer, p. 57.</note>
+               <hi>the Governor of all Creatures, the only gi<g ref="char:EOLhyphen"/>ver of all Victories, which alone art able to strengthen the Weak against the Mighty,
+<pb n="8" facs="tcp:94285:7"/> and to vanquish infinite Multitudes of thine Enemies,</hi>
+               <note place="margin">Page 57.</note>
+               <hi>with the Countenance of a few of thy Servants calling upon thy Name, and trusting in thee. Defend, O Lord, thy Servant, and our Governor un<g ref="char:EOLhyphen"/>der thee, our Sovereign Lord the King, and all thy People committed to his Charge. O Lord, withstand the Cruelty of all those which be common Enemies, as well to the Truth of thy Eternal Word, as to their own</hi> Natural Prince <hi>and</hi> Country, <hi>and mani<g ref="char:EOLhyphen"/>festly to this</hi> Crown <hi>and</hi> Realm <hi>of</hi> England, <hi>which thou hast</hi> assigned <hi>in these our days, to the Government of thy Servant, our Sovereign and Gracious King. O most merciful Father (if it be thy holy will) make soft and tender the stony Hearts of all those that exalt themselves against thy Truth, and seek either to trouble the quiet of this Realm of</hi> England, <hi>or</hi> to oppress the Crown of the same, <hi>and</hi> convert <hi>them to the Knowledg of thy Son, the only Savi<g ref="char:EOLhyphen"/>our of the World, Iesus Christ, that we and they may joyntly glorify thy Mercies. Lighten, we beseech thee, their ignorant Hearts to embrace the Truth of thy Word, or else so abate their</hi> Cruelty, <hi>(O most migh<g ref="char:EOLhyphen"/>ty Lord) that this our</hi> Christian Realm, <hi>with others that confess thy Holy Gospel, may obtain by thy Aid and Strength, surety from all Enemies, without shedding of Christian Blood, whereby all they which be</hi> oppressed with their Tyranny, <hi>may be relieved,
+<pb n="9" facs="tcp:94285:7"/> and they which be in fear of</hi> their Cruelty, <hi>may be comforted; and finally, that all Christian Realms, and especially this Realm of</hi> Eng<g ref="char:EOLhyphen"/>land, <hi>may by thy Defence and Protection, continue in the</hi> Truth of thy Gospel, <hi>and en<g ref="char:EOLhyphen"/>joy perfect Peace, Quietness, and Securi<g ref="char:EOLhyphen"/>ty. And that we for these thy Mercies, joynt<g ref="char:EOLhyphen"/>ly all together with one consonant Heart and Voice, may thankfully render to thee all Laud and Praise; that we, knit in one</hi> Godly Concord <hi>and</hi> Unity <hi>amongst our selves,</hi>
+               <note place="margin">Page 58.</note>
+               <hi>may continually magnify thy Glorious Name, who with thy Son our Saviour Iesus Christ, and the Holy Ghost, art one Eternal, Almighty, and most merciful God; To whom be all Laud and Praise, World without end.</hi> Amen.</q>
+            <p>This Prayer renders it somewhat doubtful, whe<g ref="char:EOLhyphen"/>ther the Composer or Composers were of the Prote<g ref="char:EOLhyphen"/>stant, or of the Popish Re igion. If of the Prote<g ref="char:EOLhyphen"/>stant, he or they, at least, was or were for making <hi>Friends of the Mammon of unrighteousness;</hi> and for fear of disobliging their supposed Sovereign, and the <hi>French</hi> King, will not call this a <hi>[Prote<g ref="char:EOLhyphen"/>stant]</hi> but a <hi>[Christian]</hi> Nation, which Denomi<g ref="char:EOLhyphen"/>nation comprehends their Catholick Brethren: and certain it is, the Prayer discovers a Charity sui<g ref="char:EOLhyphen"/>table to those of the <hi>Romish</hi> Creed; when it before God Almighty represents those who are of a side opposite to them, not only as Cruel men, and the Government which protects them, as Tyrannical; but censures Prince and People, as <hi>Enemies to the
+<pb n="10" facs="tcp:94285:8"/> Truth of God's eternal word,</hi> and Strangers <hi>to the Knowledg of his Son.</hi> Meer Infidels and Heathens, yet this may be in some measure excusable, since they own even themselves in the Absence of their King,<note place="margin">Page 39.</note> to be <hi>without Priests, without God in the World.</hi>
+            </p>
+            <p>This I must confess, was at first a little surpri<g ref="char:EOLhyphen"/>sing to me,<note place="margin">Vid. D<seg rend="sup">r</seg>. <hi>Sher<g ref="char:EOLhyphen"/>lock,</hi> Of the Ʋnion and Communion with the Bles<g ref="char:EOLhyphen"/>sed Jesus.</note> till I recollected Dr. <hi>Sherlock</hi>'s Notion of the <hi>Ʋnion and Communion</hi> between Christ and Believers, which he contends to be only a <hi>Political Ʋnion;</hi> and that all Promises to Believers are made to them, as considered in a <hi>Church-State,</hi> united under the Polity of his appointment. If therefore, that <hi>Head</hi> of the <hi>Church</hi> which they suppose, that <hi>God has assigned in these our days,</hi> be gone; according to that Notion, we may be thought to be, as without God in the World, shut out of the Pale of the Church, and left abroad among <hi>Publicans</hi> and other <hi>Sinners.</hi> But I would gladly know,</p>
+            <p n="1">1. Whether the Crown and Realm of <hi>England,</hi> is not more <hi>manifestly assigned by God in these our days</hi> to the Government of King <hi>William,</hi> than of King <hi>James?</hi>
+            </p>
+            <p n="2">2. Whether he is not our <hi>Natural Prince,</hi> in a truer Sense than King <hi>James</hi> was, even before the <hi>Abdication?</hi>
+            </p>
+            <p n="3">3. Whether, if the Law of Nature, common to us and Bruits, is to determine the Right, and not Reason, the Foundation of Civil Societies and Laws; any Man can be a <hi>Natural Prince,</hi> who cannot prove his Title by <hi>Proximity</hi> of Blood from <hi>Adam?</hi>
+            </p>
+            <p n="4">
+               <pb n="11" facs="tcp:94285:8"/>4. As they pray to God to <hi>make soft and tender the stony Hearts of them, who seek to trouble the quiet of this Realm;</hi> They ought seriously to re<g ref="char:EOLhyphen"/>flect upon what they themselves are doing, and how they could answer for that Desolation which the grant of their Prayers must inevitably bring upon this Land, and themselves too, if they are Protestants.</p>
+            <p>According to that of the equally religious Hea<g ref="char:EOLhyphen"/>then Poet:<note place="margin">Juv. Sat. 10.</note>
+               <q>
+                  <lg xml:lang="lat">
+                     <l>
+                        <hi>Evertêre Domos, totas optantibus ipsis,</hi>
+                     </l>
+                     <l>
+                        <hi>Dii faciles.</hi>
+                     </l>
+                  </lg>
+                  <lg xml:lang="eng">
+                     <l>'The easy Gods have Families destroy'd,</l>
+                     <l>'Which but th' effects of their own Prayers enjoy'd.</l>
+                  </lg>
+               </q>
+            </p>
+            <p>These Gentlemen would have done much bet<g ref="char:EOLhyphen"/>ter, considering what Calamities such Prayers might plunge them and us into, to have profited by the latter part of his admirable Satyr.</p>
+            <q>
+               <lg xml:lang="lat">
+                  <l>
+                     <hi>Nil ergo optabunt homines? Si consilium vis,</hi>
+                  </l>
+                  <l>
+                     <hi>Permittes ipsis expendere Numinibus, quid</hi>
+                  </l>
+                  <l>
+                     <hi>Conveniat nobis, rebusque sit utile nostris:</hi>
+                  </l>
+                  <l>
+                     <hi>Nam pro jucundis, aptissima quaeque dabunt Dii.</hi>
+                  </l>
+                  <l>
+                     <hi>Carior est illis homo quam sibi.</hi>
+                  </l>
+               </lg>
+               <lg xml:lang="eng">
+                  <l>'Shall we then pray for nothing? I advise,</l>
+                  <l>'Leave all to the indulgent Deities;</l>
+                  <l>'To them your selves and your affairs commit,</l>
+                  <l>'Instead of what may please, they'l give what's fit.</l>
+                  <l>'Man is to them, than to himself more dear.</l>
+               </lg>
+            </q>
+            <p n="5">
+               <pb n="12" facs="tcp:94285:9"/>5. It may deserve consideration, whether their mention of them who in their thoughts, <hi>oppress the Crown of this Realm of</hi> England, does not suffici<g ref="char:EOLhyphen"/>ently explain what some Men mean in their Cla<g ref="char:EOLhyphen"/>mour against <hi>Republican Principles?</hi> As they be<g ref="char:EOLhyphen"/>lieve, that we are now <hi>without King;</hi> according to them, they who are for King <hi>William,</hi> upon that very account are for a <hi>Commonwealth,</hi> tho they are never so hearty for supporting the <hi>Monar<g ref="char:EOLhyphen"/>chy</hi> under Him.</p>
+            <p>But if the foregoing Prayer is not a sufficient Indication, of the Charity of him or them that made it; the comparing the two following at distance one from the other, may shew the length of such warm Fits.</p>
+            <q>
+               <note place="margin">Page 25.</note>
+               <hi>Let not our Lord be angry, and we will speak but this once, and that in Obedience to thy Command, for our Enemies, Slan<g ref="char:EOLhyphen"/>derers, and Oppressors; especially those that</hi> have caused or encreased the publick Distraction. <hi>Lord restrain their Malice, and open their Eyes and Hearts, that they may see the crookedness of their own ways, and return into the straight Path of Meekness and Cha<g ref="char:EOLhyphen"/>rity, that we may live together in Peace here, and reign together in thy Glory here<g ref="char:EOLhyphen"/>after.</hi>
+            </q>
+            <p>And then, having prayed <hi>for those that are in Misery,</hi>
+               <note place="margin">Page 39.</note> and that God would hear <hi>the Groans and Cries of all that are afflicted outwardly or inward<g ref="char:EOLhyphen"/>ly, in Body or Mind; especially such, who suffer in
+<pb n="13" facs="tcp:94285:9"/> a Righteous Cause, whose Loyalty have been more dear to them than their Fortunes.</hi> Soon after follows,</p>
+            <q>
+               <hi>Convert and Soften the hard Hearts of their</hi> Implacable Enemies, <hi>and Asswage their</hi> Thirst of Blood <hi>which still cries more and more; or if thou otherwise hast decreed to bring</hi> any more of <hi>us through the Red-Sea into the Land of Promise, prepare us for this Passage, and Guide us by thy Blessed Spirit through the Shadows of Death Con<g ref="char:EOLhyphen"/>tinue our Christian Courage and Constan<g ref="char:EOLhyphen"/>cy to the utmost; strengthen our Faith con<g ref="char:EOLhyphen"/>firm our Hope, and let our Charity over<g ref="char:EOLhyphen"/>flow,</hi> even to the forgiveness of them by whose un<g ref="char:EOLhyphen"/>just Sentence we perish.</q>
+            <p>Here one may observe,</p>
+            <p n="1">1. That it seems as if nothing but God's Com<g ref="char:EOLhyphen"/>mand, could induce them to Pray for those that are of a Side opposite to them. They charge them wi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h being their <hi>Slanderers, Opp<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>essors,</hi> and <hi>Ene<g ref="char:EOLhyphen"/>mies,</hi> and that <hi>Implacable,</hi> and <hi>Thirsting</hi> after <hi>Blood;</hi> wherein they seem to have imbib'd the Spirit and Phrase of the <hi>Gentle Author</hi> of the last part of the Magistracy and Government Vindicated, who calls them that would have Criminals brought to Justice, <hi>Bloodhounds.</hi>
+            </p>
+            <p n="2">2. They lay at the doors of them who would not have <hi>Criminals</hi> go unpunish'd the causing or encrea<g ref="char:EOLhyphen"/>sing the <hi>publick Distractions;</hi> as if the unjust <hi>Verdicts</hi> and <hi>Judgments</hi> of former times; the <hi>Dispensing</hi> with Acts of Parliament, the <hi>Surrendring,</hi> and taking a<g ref="char:EOLhyphen"/>way
+<pb n="14" facs="tcp:94285:10"/> of Charters, the <hi>Abhorring,</hi> and <hi>slighting, Peti<g ref="char:EOLhyphen"/>tions</hi> from the <hi>Greatest Bodies,</hi> did not in the least <hi>cause</hi> those <hi>Distractions,</hi> nor the justifying all these things, at this day, in the least <hi>encrease</hi> them.</p>
+            <p n="3">3. They insinuate before God Almighty, as if some of their Party in <hi>England</hi> have gone through a <hi>Red-Sea,</hi> by <hi>unjust Sentences;</hi> but I do not know that any of them have yet been executed for Trea<g ref="char:EOLhyphen"/>son against this Government, though they former<g ref="char:EOLhyphen"/>ly Triumph'd at the unjust Executions of the best Friends to them and their Country, for preten<g ref="char:EOLhyphen"/>ded Treasons. Indeed with them there may be Treason which the Law never made or declared to be <hi>Treason,</hi> and that which the Law declares to be <hi>Treason</hi> is <hi>no Treason.</hi> For information in this particular, we may observe this Prayer.</p>
+            <q>
+               <note place="margin">P. 30.</note>
+               <hi>O Almighty God, the Blessed and only Potentate, we offer up our humble suppli<g ref="char:EOLhyphen"/>cations and prayers to thy Divine Goodness, beseeching thee in this time of Danger, to save and protect our most gracious King; Give thy Holy Angels charge over Him; Preserve His Royal Person in Health and Safety; Inspire Him with Wisdom and Iustice in all His Counsels; Prosper all His undertakings, for thy Honour and Ser<g ref="char:EOLhyphen"/>vice, with good success; Fill His Princely heart with a Fatherly care of all His peo<g ref="char:EOLhyphen"/>ple; and give all His Subjects Grace, al<g ref="char:EOLhyphen"/>ways to</hi> bear Faith and true Allegiance <hi>to His Majesty, that both King and People joyn<g ref="char:EOLhyphen"/>ing together to promote thy Glory, and con<g ref="char:EOLhyphen"/>scientiously
+<pb n="15" facs="tcp:94285:10"/> discharging their Duties in their several stations may all give thee thanks and praise for thy most Mighty Pro<g ref="char:EOLhyphen"/>tection, and for all other thy great Mercies vouchsafed to us, through Iesus Christ thy Son, our Saviour.</hi>
+            </q>
+            <p>It can be no dispute, but their King, is he, who as one of the Prayers before observed has it,<note place="margin">P. 60.</note>
+               <hi>for the sins of priests and people is now kept out.</hi> Here they Pray to God to give all his Subjects Grace <hi>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ways to bear Faith and true Allegiance to him;</hi> whereas the Law says, that no <hi>Allegiance</hi> is due to him that is kept out: for if Allegiance is due to him, Treason may be committed against him, <hi>contra legiantiae debitum:</hi> But the Lord <hi>Coke</hi> and Sir <hi>Matthew Hale</hi> shew,<note place="margin">3 Inst. c. 1. f, 7. <hi>Hales</hi> Pleas of the Crown P. 12.</note> that Treason cannot be committed against one, even tho he should have had right to the Crown, while he is out of possession. In this they have all Antiqui<g ref="char:EOLhyphen"/>ty on their side; and whatever scruples some un<g ref="char:EOLhyphen"/>thinking men may have had, Allegiance has general<g ref="char:EOLhyphen"/>ly been Sworn and Paid to Kings in possession by a true National consent,<note place="margin">11 <hi>H.</hi> 7. <hi>c.</hi> 1.</note> as long as they have maintain'd their Characters. And the S<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ute 11 <hi>H.</hi> 7. has setled this beyond Dispute. This being so, it shews the rashness of that part of another Prayer, which charges them who have Sworn Allegiance to King <hi>William</hi> and Q<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>een <hi>Mary,</hi> having formerly Sworn to King <hi>James,</hi> with Perjury, even after the <hi>Late King ceas'd to be King</hi> in the Eye of the Law.</p>
+            <q>
+               <hi>Pardon,</hi> say they, <hi>the many great offences of us thy Servants, and the crying Sins
+<pb n="16" facs="tcp:94285:11"/> of the whole Nation: Deliver us from the Guilt of</hi> Rebellion,<note place="margin">P. 38.</note> Blood, <hi>and</hi> Perjury, <hi>espe<g ref="char:EOLhyphen"/>cially that of</hi> careless breaches of Oaths made to our Sovereign; <hi>forgetting that such are the Oaths of God; and that thou thy self in a more especial manner art a strict avenger of them.</hi> &amp;c.</q>
+            <p>I would entreat these <hi>Pious Gentlemen</hi> to in<g ref="char:EOLhyphen"/>form me, Whether this is Perjury by <hi>God</hi>'s <hi>Law</hi> or mans Law? If they say, by <hi>God</hi>'s <hi>Law;</hi> then surely they usurp his Tribunal, and enter into mens hearts, upon which they pronounce, that none have Sworn Allegiance to King <hi>William and</hi> Queen <hi>Mary</hi> in the sincerity of their Hearts; but if they have Sworn in sincerity, as believing that they are lawfully dis<g ref="char:EOLhyphen"/>charged of their Allegiance to the late King, I am sure it cannot be said, that such are perjured in God's account. Indeed as to them that have Sworn to be <hi>Faithful,</hi> and <hi>bear True Allegiance</hi> to <hi>King William and Queen Mary,</hi> though at the same time they believed that the obligation of Allegi<g ref="char:EOLhyphen"/>ance to their supposed King of right, remain'd, I must leave them to answer for themselves.</p>
+            <p>If they will have this to be Perjury by Man's Law, I think I may very well say, <hi>Where there is no Law there is no Transgression;</hi> and till they can shew, that Law which requires the <hi>English</hi> Subjects to pay Allegiance to <hi>King James,</hi> I believe 'twill be very difficult for them to prove, <hi>that God</hi>'s Law requires it; for I cannot think <hi>that God</hi>'s Law requires in this particular, what is contrary to Man's.</p>
+            <p>
+               <hi>God's Law</hi> forbids Theft, but man's shews where<g ref="char:EOLhyphen"/>in
+<pb n="17" facs="tcp:94285:11"/> it lyes, as it fixes and limits property: and in all such cases, I think no man, having consulted Lawyers in the point, need scruple to enter upon the common Offices of Life, till he has received Episcopal <hi>Confirmation,</hi> nor be frighted with the most Solemn Denunciation of God's Judgments, by men of false Religions and Persuasions; especially when he considers that the <hi>Jews</hi> to this very day, Curse the <hi>Christians</hi> in their Standing Church-Service.</p>
+            <p>Though God may be said to <hi>Mock</hi> at some men's <hi>Calamities,</hi> which they bring upon themselves; yet far be it from us to make sport with things so se<g ref="char:EOLhyphen"/>rious, as some of these Prayers; which may have pro<g ref="char:EOLhyphen"/>ceeded from real belief and heated Imaginations: yet I well know how some of our new Separatists would have ridicul'd the like expressions in Dissen<g ref="char:EOLhyphen"/>ters from the Church of <hi>England,</hi> merely for Cere<g ref="char:EOLhyphen"/>monies;<note place="margin">
+                  <hi>H</hi>'s Ravilliac Redivivus.</note> one of the Subscribers to the Late Bishop of <hi>Chichester</hi>'s Paper, would have Imputed them to an <hi>Inchanted staff;</hi> and <hi>Dr. S.</hi> to too bold Fa<g ref="char:EOLhyphen"/>miliarity with God Almighty. I am sure they are very bold with that <hi>Power</hi> which God has set over them, as has appeared in some of the Forms before observed. To which we may add this,</p>
+            <q>
+               <hi>Father of Mercies, and Lover of Souls,</hi>
+               <note place="margin">Page 63.</note>
+               <hi>who art kind unto the unthankful and to the evil, and hast commanded us also to extend our Charity, even to those that hate us and despitefully use us; We beseech thee as to accept our Prayers, which we have this day offered up unto thee in behalf of all that are</hi> Faithful and Loyal in the Land; <hi>so
+<pb n="18" facs="tcp:94285:12"/> also enlarge thy Mercy and Pity, even to those that are our Enemies. O Most Wise and Powerful Lord God, in whose hands are the hearts of all Men, as the Rivers of water, to turn them whither soever thou wilt: Work mightily upon the minds of all Parties among us.</hi> Turn the hearts of the Children to the Fa<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her, <hi>and the disobedient</hi> to the Wisdom of the Just; <hi>and so make them</hi> a<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ready people prepared for the Lord. <hi>Thou that sittest between the Cherubim, be the Earth never so unquiet; Thou that stillest the raging of the Sea, and the noise of his Waves, and the madness of the People; stir up thy strength and come and help us. Let the wickedness of the wicked come to an end: Take away his ungodliness, and thou shalt find none. Let the fierceness of Man turn to thy praise; and the remainder of wrath do thou restrain. To this end take from them all their prejudices, and all their passions; their</hi> confident Mistakes, <hi>their car<g ref="char:EOLhyphen"/>nal ends, and their secular interests; open the blind eyes that they may see (at least in this their day) the things which belong to their peace; and wisely considering, may hear and fear, and do no more wickedly. Soften the most</hi> obdurate <hi>Hearts into a meek, and humble, and</hi> docible <hi>temper, that they may no longer</hi> resist the Tru<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h. <hi>Bow down the stiff neck, and the Iron sinew, to the gentle and easie yoke of thy most Holy Law. Take away the</hi> Brow of Brass, <hi>and</hi>
+               <pb n="19" facs="tcp:94285:12"/> Whores Forehead, <hi>and make their</hi> Faces ashamed, <hi>that they may seek thy name. Sweeten (if it may be) the Gall of bitterness; and loose the Bands of Iniquity; and guide their Feet into the way of Peace: And so, O Lord, redouble our Ioys upon us, that we may not only (in thy due time) triumph in the disappointment of</hi> their wicked imaginations; <hi>but with thy Holy Angels in Heaven, re<g ref="char:EOLhyphen"/>joice for</hi> their Conver<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion. <hi>Which great Bles<g ref="char:EOLhyphen"/>sing, with the most ardent affection of our Souls, we beg of thee, for thy tender Mer<g ref="char:EOLhyphen"/>cies sake, through the Merits and Media<g ref="char:EOLhyphen"/>tion of Iesus Christ, thy blessed Son, our only Saviour.</hi>
+            </q>
+            <p>I Appeal to all unbiass d Men, whether it is not likely that the Composers, and the greatest part of them, who may joyn in this Pra<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, would not c<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y out of this, as abominable <hi>Cant</hi> in another sort of <hi>Separatists;</hi> and I think the word <hi>Cant</hi> has been not improperly applied to Mens bold Applications of Scripture Phrases, to every thing that warms their Fancies. Scripture Phra<g ref="char:EOLhyphen"/>ses do not hallow every Prayer; they may in some be used <hi>Prophanely</hi> and <hi>Ʋncharitably:</hi> not have Christians any Warrant to apply to M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n, dif<g ref="char:EOLhyphen"/>fering from them, what was in the original use de<g ref="char:EOLhyphen"/>signed against the Enemies of <hi>God's Church,</hi> or pro<g ref="char:EOLhyphen"/>ceeded from a prophetical Spirit.</p>
+            <p>As the former Prayers shew, who they mean by <hi>the Loyal</hi> in the Land, and whom by their <hi>Enemies,</hi> i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> can be no great Question, but in
+<pb n="20" facs="tcp:94285:13"/> praying that God would <hi>turn the Hearts of the Children to the Father, and the Disobedint to the Wisdom of the Just;</hi> They would have King <hi>Wil<g ref="char:EOLhyphen"/>liam</hi> and Queen <hi>Mary</hi> wrought upon, to bring in <hi>James</hi> the <hi>Just,</hi> and would set the Paternal Power above the <hi>Regal,</hi> which such Men did not use to do, any otherwise than as they are used to make their Doctrines serve their oc<g ref="char:EOLhyphen"/>casions.</p>
+            <p>But, what a sweet Character is here of the Dis<g ref="char:EOLhyphen"/>loyal in their Eyes? Men of <hi>Ʋngodliness, Fierce<g ref="char:EOLhyphen"/>ness, Wrath, Confident Mistakes, Carnal Ends, Se<g ref="char:EOLhyphen"/>cular Interests, Obdurate Hearts, Resisters of the Truths, Stiff Necks, Iron-Sinews, Brows of Brass, Whores Foreheads.</hi>
+            </p>
+            <p>Well may they pray for the <hi>Conversion</hi> of these, and that they may be softned into a <hi>decible Tem<g ref="char:EOLhyphen"/>per.</hi> And yet all the Conversion and Docibility pray'd for, is, that the Nation instead of Prote<g ref="char:EOLhyphen"/>stant,<note place="margin">Vid. Sup. page 9.</note> may be <hi>Christian</hi> at large, and be brought under Subjection to a Popish King, and Submissi<g ref="char:EOLhyphen"/>on to such Spiritual Guides; nor is there so much as one short Ejaculation for converting him their <hi>most Gracious King,</hi>
+               <note place="margin">P. 30. P. 36.</note> and <hi>Sovereign Lord</hi> (where they leave room for King <hi>James</hi>'s Name, to be sup<g ref="char:EOLhyphen"/>plied at the reading) from the Errors of his ways, and that <hi>false</hi> and <hi>idolatrous VVorship,</hi> in which he is engag'd;<note place="margin">P. 6.</note> but they in effect, pray to God <hi>to keep and strengthen him in it;</hi> and surely they, who take such a Liberty in adding to the <hi>Liturgy,</hi> might have alter'd that part of the <hi>Litany,</hi> which was composed for a <hi>Sovereign Prince,</hi> for whom it was proper to pray, that God would <hi>keep
+<pb n="21" facs="tcp:94285:13"/> and strengthen</hi> Him <hi>in the true worshipping of him.</hi>
+            </p>
+            <p>Having prayed, That <hi>God</hi> would <hi>keep and strengthen</hi> him in that way of <hi>VVorship</hi> which he uses; there is no wonder, that they should pray to <hi>God to preserve and prosper him in all his ways,</hi>
+               <note place="margin">P. 25.</note>
+               <hi>and give him success in all his Ʋndertakings and Actions, that he may be always a Religious Defender of God's Holy Faith and Church among us,</hi>
+               <note place="margin">P. 36.</note>
+               <hi>and gracious Go<g ref="char:EOLhyphen"/>vernor unto all his Subjects, a glorious Conqueror over all his Enemies, a mighty Protector of the Peo<g ref="char:EOLhyphen"/>ple committed to his Charge,</hi> (that is, the <hi>Irish</hi> Pa<g ref="char:EOLhyphen"/>pists against the Protestants) <hi>and a happy Father of a numerous Posterity, to Rule these Nations af<g ref="char:EOLhyphen"/>ter him by</hi> Succession, <hi>in all Ages and Genera<g ref="char:EOLhyphen"/>tions.</hi>
+            </p>
+            <p>I suppose, effectually to set aside our King and Queen, and Princess <hi>Ann,</hi> unless their Hearts so far turn to their Father, as to deliver up to him whatever trust they, or either of them have from the People, because of the Cloud upon the Prince of <hi>Wales,</hi> they would have the management of the next Birth themselves: it must be understood that this had no Credit; for the Bishops were then in the <hi>Tower.</hi>
+            </p>
+            <p>Whatever is the matter, whether that the Head of the Church is away, or a <hi>Metrop<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>litan</hi> depriv'd; the <hi>Church</hi> it seems now lies under <hi>a fatal Sen<g ref="char:EOLhyphen"/>tence,</hi> and is very <hi>Disconsolate,</hi> according to this Prayer.</p>
+            <q>
+               <hi>O Thou great God of Recompences,</hi>
+               <note place="margin">P. 55.</note>
+               <hi>who turnest a Fruitful Land into barren<g ref="char:EOLhyphen"/>ness for the wickedness of them that dwell
+<pb n="22" facs="tcp:94285:14"/> therein; thou hast most justly</hi> ex<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cuted that fatal Sentence upon this Church, <hi>which having once been the</hi> Perfection of Beauty, <hi>the joy of the whole Earth,</hi>
+               <note place="margin">They make it so.</note>
+               <hi>is now become a scorn and derision to them that are round about her. O Lord, what could be done to thy Vineyard that thou hast not done in it? And since it hath brought forth nothing but wild Grapes,</hi>
+               <note place="margin">P. 56.</note>
+               <hi>it is perfectly just with Thee to take away the Hedge thereof,</hi> and let it be eaten up. <hi>But, O Lord, though our Iniquities testify against us, yet do thou it for thy Name's sake: for our back<g ref="char:EOLhyphen"/>slidings are many, we have sinned against Thee: O the hope of</hi> I<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rael, <hi>the Saviour thereof in time of trouble; why shouldst Thou be as a stranger in the Land, as a way-faring Man th<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t turneth aside to tar<g ref="char:EOLhyphen"/>ry for a Night?</hi> Wh<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> shouldst, Thou be as a M<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n astonied? <hi>Yet Thou, O Lord, art in the midst of us, and we are called by thy Name, leave us not. Deprive us of what outward Enjoyment thou pleasest; take from us the opportunities of our Luxury, and it may be a mercy; but, O take not from</hi> us the means of our Reformation,<note place="margin">That is, re<g ref="char:EOLhyphen"/>move not the Candlesticks</note>
+               <hi>for that is the most direful Expression of thy Wrath. And though we have hated the Light, be<g ref="char:EOLhyphen"/>cause our Deeds were evil; yet, O Lord, do not by withdrawing it, condemn us to walk on</hi> still in darkness, <hi>but let it continue to shine till it have guided our feet into the way of Peace. O Lord, arise, stir up thy
+<pb n="23" facs="tcp:94285:14"/> strength, and come and help us, and deli<g ref="char:EOLhyphen"/>ver not the Soul of thy Turtle Dove</hi> (this disconsol<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>te Church) <hi>unto the multitude of the Enemy; but bless her, O Lord, and that right early. But if, O Lord, our Re<g ref="char:EOLhyphen"/>bellions have so provoked thee, that the</hi> Ark must wander in the Wilderness till all this murmuring Generation be consumed,<note place="margin">
+                  <p>The Ark of the Lord, the Ark of the Lord!</p>
+                  <p>Popery, or King <hi>James?</hi>
+                  </p>
+               </note>
+               <hi>yet let not that perish with us, but bring it at last into a</hi> Canaan, and let our more innocent Po<g ref="char:EOLhyphen"/>sterity see that which in thy just Judgment thou deni<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>st to us. <hi>In the mean time, let us not cease to bewail that Desolation our sins have brought; to think upon the Stones of</hi> Sion <hi>and pity to see her in the dust, nor ever be ashamed, or afraid to own her in her lowest, and most</hi> persecuted condition; <hi>but esteem the Reproach of Christ greater Riches than the Treasures of</hi> Egypt, <hi>and so approve our Constancy to this our</hi> af<g ref="char:EOLhyphen"/>flicted Mother, <hi>that her blessed Lord, and Head, may own us with mercy, when he shall come in the Glory of thee his Father, with the Holy Angels. Grant this merci<g ref="char:EOLhyphen"/>ful Lord, for the same Iesus Christ his sake.</hi>
+            </q>
+            <p>This Prayer seems to make it appear, that the <hi>Fo<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mulary,</hi> was a contribution from several hands; the Composer of this I doubt is but a young Tra<g ref="char:EOLhyphen"/>der in Scripture Allegories. But according to this, they of the New Separation are Gods peculiar People, or Vineyard; his Church, his Ark, with
+<pb n="24" facs="tcp:94285:15"/> them had been the perfection of Beauty, till the fa<g ref="char:EOLhyphen"/>tal Sentence was Executed; which, 'tis to be presu<g ref="char:EOLhyphen"/>sumed, was that which deprived some of them of their Ecclesiastical Preferments and Offi<g ref="char:EOLhyphen"/>ces. But if we take the Church in this sence, then it can hardly be understood to what end <hi>This dis<g ref="char:EOLhyphen"/>consolate</hi> Church should Pray for Constancy to the <hi>Afflicted Mother;</hi> except this be the Daughter of the <hi>Romish.</hi> If it be said that they make not themselves the Church, but of the Church; what Church are they of? If of the Church of <hi>England,</hi> that has no fatal Sentence Executed upon it, nor does it Travel in the Wilderness, but enjoys the fat of the Land. But to apply the Allegory of the Ark, If it <hi>must wander in the Wilder<g ref="char:EOLhyphen"/>ness, till all this murmuring Generation be con<g ref="char:EOLhyphen"/>sumed,</hi> as 'tis plain from the sacred Story, that the Murmurers were they which Travel'd with the <hi>Ark;</hi> who can tell but these Murmurers here<g ref="char:EOLhyphen"/>in, draw their own Fate and Character?</p>
+            <p>
+               <note place="margin">Vid. Dr. <hi>E</hi>'s Grounds of the Contempt of the Clergy.</note>They in their Prayer say, the <hi>Church became a scorn and derision.</hi> A Clergy-man some years since shew'd many grounds for it, in the ridiculousness of the expressions of many of his Brethren; their actions since have been as fit a subject of Satyr, and some of them can never make the Church amends; for making it a common prostitute to serve every turn, or an <hi>Asylum</hi> for the greatest Malefactors.</p>
+            <p>There are no small grounds to believe, that Thousands of these Prayer-Books have been Prin<g ref="char:EOLhyphen"/>ted and dispers'd at a charge more than Private: In all probability they were calculated for the ex<g ref="char:EOLhyphen"/>pected descent of the <hi>Highlanders,</hi> with their Offi<g ref="char:EOLhyphen"/>cers
+<pb n="25" facs="tcp:94285:15"/> from <hi>England,</hi> and <hi>Ireland.</hi> God Almighty has disappointed them in that, and it is to be hop'd will still appear for his Cause, and <hi>Church.</hi>
+            </p>
+            <p>Had it not been for the Sanguine expectations, which such Conjunctions as I could name, rais'd in these men, they could no more have thought themselves obliged to publish this now, than they did a Twelvemonth since; Their Zeal encrea<g ref="char:EOLhyphen"/>sed with their prospect of Success. This put them upon standing upon the narrow bottom of the Nonswearers, and Condemning as Guilty of Perju<g ref="char:EOLhyphen"/>ry, even all of their own <hi>Party,</hi> who have taken the Oaths to this King, and yet intended to be <hi>True</hi> and <hi>Faithful</hi> to the last; which might bring their Prudence, in question, as much as their ge<g ref="char:EOLhyphen"/>neral Censures do their Charity.</p>
+            <p>But I must confess, in this their Imprudence, they are not singular; I have seen others, who that they might inhanse their own worth upon some small matters, wherein they and their opposites have hap<g ref="char:EOLhyphen"/>ned to agree, tho upon different grounds, have cri'd down the most of their own Party, till they set up another which became too powerful for them, upon the Credit which themselves gave; and thus some to secure their footing, have thought them<g ref="char:EOLhyphen"/>selves obliged shamefully to shift their Sides, whereby men who might have ever been con<g ref="char:EOLhyphen"/>siderable at the head of their Friends, have ren<g ref="char:EOLhyphen"/>der'd themselves very insignificant.</p>
+            <p>This was the Natural consequence of making a Test of Merit common to the Enemies as well as Friends to the excellent Constitution of the <hi>En<g ref="char:EOLhyphen"/>glish-Monarchy:</hi> In which <hi>Man-hunters,</hi> Surrende<g ref="char:EOLhyphen"/>rers
+<pb n="26" facs="tcp:94285:16"/> of Charters, and Confiners of Elections to a few pick'd men, might have been as stiff and stanch, as the greatest sufferers for their Country.</p>
+            <p>Such is the Mutability of Humane Nature, and the weakness of their Judgments, that men know not their own Minds, nor can foresee what they are likely to think upon any change of Circum<g ref="char:EOLhyphen"/>stances; no ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, at least, would have expected, that so many of our Bishops should have been Dis<g ref="char:EOLhyphen"/>senters from this Government, who had observed what opposi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ion some of the same men gave to King <hi>James;</hi> what Proposals they made to him when his Fears came upon him; how they refus'd to disown their inviting His Present Majesty before his Landing; and in what terms they soon after in<g ref="char:EOLhyphen"/>treated him to take the Government upon him: That Form of an <hi>Abhorrence,</hi> which the Late King press'd them to sign, and which they refus'd to do, may be a suffi<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ient Evidence of this.</p>
+            <floatingText type="letter" xml:lang="eng">
+               <body>
+                  <head>The Form of an <hi>Abhorrence</hi> tendred the Bishops by the Late King.</head>
+                  <p>WHereas the Prince of <hi>Orange</hi> hath, with an Armed Force of Forreigners and Strangers, in a Hostile manner actual<g ref="char:EOLhyphen"/>ly invaded this Kingdom; and to amuse and deceive the Subjects, has set forth his <hi>Declaration,</hi> and therein hath asserted, That he has been earnestly sollicited and invited by a great many of the Lords Spiritual of this Kingdom. We the Archbishop and Bishops, whose Names are hereunto sub<g ref="char:EOLhyphen"/>scribed,
+<pb n="27" facs="tcp:94285:16"/> as an indispensable Duty incum<g ref="char:EOLhyphen"/>bent upon us, Do for our selves severally and respectively Declare, That we never did either by Word or Writing, give him the least, or any Encouragement or Sollicitati<g ref="char:EOLhyphen"/>on thereto. And do, on behalf of our selves, according to the <hi>avowed and untainted Princi<g ref="char:EOLhyphen"/>ples of the Church of England,</hi> with the Con<g ref="char:EOLhyphen"/>sent of the King's most Excellent Majesty, hereby Publish and Declare to all our Fel<g ref="char:EOLhyphen"/>low-Subjects, our <hi>Abhorrence</hi> and <hi>Detestation of the said Invasion,</hi> or of any Rebellion, or other Disturbance of the Government, un<g ref="char:EOLhyphen"/>der what pretence, and upon what ground soever. And do hereby direct and admonish all our Clergy within our several and respe<g ref="char:EOLhyphen"/>ctive Diocesses (and doubt not but our seve<g ref="char:EOLhyphen"/>ral Brethren the Bishops, who are not pre<g ref="char:EOLhyphen"/>sent at the Signing hereof, but they respe<g ref="char:EOLhyphen"/>ctively will speedily do the like for them<g ref="char:EOLhyphen"/>selves, and within their several and respe<g ref="char:EOLhyphen"/>ctive Diocesses) to excite and stir up their several Auditors, and all Persons within their respective Cures, to stand firm and sted<g ref="char:EOLhyphen"/>fast in their Duty and Obedience to the King's Majesty, in the opposition thereof, as being a Duty incumbent upon them by the Laws of God and Man, and from which they may expect the Blessing of God in such their Vndertaking. To which, and for which they shall not want our fervent Prayers to God on their behalfs.</p>
+                  <closer>
+                     <dateline>
+                        <hi>Given under our H<gap reason="illegible" resp="#murp" extent="1 letter">
+                              <desc>•</desc>
+                           </gap>nds</hi>
+                        <date>
+                           <hi>this <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> day of <gap reason="blank" extent="1 word">
+                                 <desc> _____ </desc>
+                              </gap> Anno Dom.</hi> 1688.</date>
+                     </dateline>
+                  </closer>
+               </body>
+            </floatingText>
+            <pb n="28" facs="tcp:94285:17"/>
+            <p>What could be the reason of refusing to Sign this, but either that some of them at least, were Consci<g ref="char:EOLhyphen"/>ous that they had invited the Prince over; or if they had not, yet they thought, either that they were in Conscience discharg'd of Allegiance to one who had ceas'd to Govern as an <hi>English</hi> King, or that they were bound not to oppose a Deliverance which God seem'd ready to work for them: take it either way, I am sure no man can with con<g ref="char:EOLhyphen"/>sistency to such opinions promote, or joyn in the Prayers lately Published.</p>
+            <p>As most of these new Forms would pass for <hi>Cant</hi> in their own eyes, if us'd by others; to some they may seem brought to subjects so slight and ridicu<g ref="char:EOLhyphen"/>lous, as if they were design'd to burlesque the sacred Scripture; but then if they apply to any man, what the Scripture has appropriated to either of the Persons in the Blessed Trinity, 'twill be difficult to avoid the Imputation of Blasphemy; upon which it is to be fear'd that they border too nigh, when, speaking of their Prince <hi>now kept</hi> out, they pray God to <hi>make the stone which these foolish Builders have rejected, the head stone of the Corner.</hi>
+            </p>
+            <p>
+               <hi>Blasphemy,</hi> I know, like <hi>Schism,</hi> is often us'd as an <hi>Ecclesiastical scare-crow;</hi> agreeably to which, an Emi<g ref="char:EOLhyphen"/>nent <hi>Divine</hi> once thought fit to caution men against ridiculing <hi>absolute submission,</hi> or <hi>obedience without reserve, lest</hi> they <hi>blaspheme the Holy One.</hi>
+            </p>
+            <p>Wherefore to proceed to my more proper Pro<g ref="char:EOLhyphen"/>vince, that I may leave a just detestation of this For<g ref="char:EOLhyphen"/>mulary in the minds of all who have any love for the Religion and Liberties of this Protestant Nation, I think it proper to conclude with this Observation, That in that Prayer which is the most particular for
+<pb n="29" facs="tcp:94285:17"/> the Restoration of their <hi>Prince,</hi> who, they say, for <hi>the sins both of Priests and people, is now kept out</hi> (as it should seem not in the least for his own) they pray that God would <hi>raise him friends abroad,</hi>
+               <note place="margin">Vid. sup. p. 3. in the printed Form, p. 60.</note>
+               <hi>and con<g ref="char:EOLhyphen"/>vert or confound the hearts of his enemies.</hi> All his foreign Friends at present are the <hi>French</hi> and <hi>Irish;</hi> and if the Confederates against <hi>France</hi> and him, will not be <hi>converted</hi> to his side, they would have them <hi>confounded,</hi> together with those who, in their eyes, are his Rebellious Subjects.</p>
+            <p>By these his Friends abroad, the <hi>French Dragoons</hi> and <hi>Irish Cut-throats,</hi>
+               <note place="margin">P. 56.</note> they would have this <hi>Nation converted,</hi> to advance the <hi>Church</hi> and <hi>Monarchy;</hi>
+               <note place="margin">Ib. to approve our Constancy to this our af<g ref="char:EOLhyphen"/>flicted Mother.</note> thus they may have the <hi>means of Reformation</hi> left them, and may be rewarded for constancy to <hi>Mother Church,</hi> and the mischief of a <hi>Common-wealth</hi> may be prevented in all the Three Kingdoms, by making them Provinces to the <hi>French Monarchy.</hi>
+            </p>
+            <p>I have heard that many of the more prudent Pa<g ref="char:EOLhyphen"/>pists have lamented the Bigotry of King <hi>James,</hi> which must immediately draw this upon us, if he have success; but we have a sort of men among us, who under the mask of a more <hi>Reformed Religion,</hi> and <hi>purer Church,</hi> have carried on Designs against their Country, which even Papists and honest Hea<g ref="char:EOLhyphen"/>thens would abhor.</p>
+            <p>Nothing was in more esteem with the <hi>Heathens,</hi> than love to their Countrey; nor was ever any man Great in their Opinions, who acted against, or betrayed i<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: while a <hi>Cateline,</hi> or a <hi>Cethegus,</hi> stand ble<g ref="char:EOLhyphen"/>mish'd to Posterity with indeleble marks of Infamy, the Constancy of <hi>Cato</hi> to the Publick Cause, and Eloquence of <hi>Cicero,</hi> never employed in <hi>hunting innocent men to death,</hi> but in defending Citizens, or
+<pb n="30" facs="tcp:94285:18"/> saving his Country, will be always remembred with praise.</p>
+            <p>What would they have thought, or what will after Ages think, when the Clouds are taken away from mens understandings, of them who will not suffer a <hi>State</hi> to subsist, unless it will truckle to a <hi>Faction,</hi> and be govern'd by a <hi>Name?</hi>
+            </p>
+            <p>Had the <hi>Flamins</hi> at <hi>Rome</hi> had as great Authori<g ref="char:EOLhyphen"/>ty,<note place="margin">Vid. Caes. Com.</note> as the <hi>Druids</hi> had here in the time of <hi>Julius Caesar,</hi> in all probability we should have visited them, in<g ref="char:EOLhyphen"/>stead of receiving an unwelcome visit from thence. While <hi>Rome</hi> was Mistress of the Universe, Lay-men were at Helm, and whatever power it now obtains in the Courts of Princes, may be owing to the in<g ref="char:EOLhyphen"/>fluence of Church-men in most of them. The Pil<g ref="char:EOLhyphen"/>grims Staff and Shooes sent those of them that would be Statesmen in <hi>Holland,</hi> perhaps has not been the least cause of that Government's being ea<g ref="char:EOLhyphen"/>sie, notwithstanding the great number of Papists a<g ref="char:EOLhyphen"/>mongst them.</p>
+            <p>Prayers and Tears, and the Spiritual Sword of Ex<g ref="char:EOLhyphen"/>communication, or of Curses, are set up with us a<g ref="char:EOLhyphen"/>gainst the Temporal Sword, and Law of the Land: The <hi>Church</hi> had other Weapons in K <hi>James</hi>'s time; and they who now engross the <hi>Church</hi> to them<g ref="char:EOLhyphen"/>selves, and that to the fewest of their own Party, the <hi>Non-swearers,</hi> encourage the use of other Weapons against King <hi>William</hi> and Queen <hi>Mary.</hi> But 'tis to be hoped, that neither the Spiritual nor Temporal Weapons form'd against them, shall pro<g ref="char:EOLhyphen"/>sper; nor is it likely that they will forget how fa<g ref="char:EOLhyphen"/>tal it was to <hi>Saul</hi> to spare <hi>Agag,</hi> and the richest of the Flocks and Herds, that the question may not be ask'd in earnest, <hi>What meaneth the bleating of the sheep, and the lowing of the oxen?</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="publishers_advertisement">
+            <pb facs="tcp:94285:18"/>
+            <head>Books Printed for <hi>Richard Baldwin.</hi>
+            </head>
+            <p>THE History of the Most Illustrious, <hi>William,</hi> Prince of <hi>Orange:</hi> Deduc'd from the first Founders of the Ancient House of <hi>Nas<g ref="char:EOLhyphen"/>sau:</hi> Together with the most considerable Actions of this present Prince. <hi>The Second Edition.</hi>
+            </p>
+            <p>A Collection of Fourteen Papers, relating to the Affairs of Church and State, in the Reign of the late King <hi>James.</hi>
+            </p>
+            <p>The Character of a Trimmer. His Opinion of I. The Laws and Go<g ref="char:EOLhyphen"/>vernmen<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. II. Protestant Religion. III. The Papists. IV. Foreign Af<g ref="char:EOLhyphen"/>fairs. By the Honourable Sir. <hi>W. Coventry.</hi> The Third Edition care<g ref="char:EOLhyphen"/>fully Corrected, and cleared from the Errors of the First Impression.</p>
+            <p>An Impartial Relation of the Illegal Proceedings against St. <hi>Mary Magdalen</hi> Colledge in <hi>Oxon,</hi> in the Year of our Lord 1687. Contain<g ref="char:EOLhyphen"/>ing only Matters of Fact as they occurred. <hi>The Second Edition.</hi> To which is added the most Remarkable Passages, omitted in the for<g ref="char:EOLhyphen"/>mer. Collected by a Fellow of the said Colledge.</p>
+            <p>The Absolute Necessity of standing vigorously by the present Go<g ref="char:EOLhyphen"/>vernment: Or, A View of what both Church-men and Dissenters must expect, if by their unhappy Divisions, Popery and Tyranny should return again.</p>
+            <p>The Justice of the Parliament, in inflicting of Punishments subse<g ref="char:EOLhyphen"/>quent to Offences, vindicated; and the Lawfulness of the Present Government asserted.</p>
+            <p>An Account of M<seg rend="sup">r</seg>. <hi>Parkinson</hi>'s Expulsion from the University o<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <hi>Ox<g ref="char:EOLhyphen"/>ford,</hi> in the late Times; in vindication of him from the false As<g ref="char:EOLhyphen"/>persions cast upon him, in a late Pamphlet, intituled, <hi>The History of Passive Obedience.</hi>
+            </p>
+            <p>The way to Peace among all Protestants; being a Letter of Re<g ref="char:EOLhyphen"/>conciliation, sent by Bp. <hi>Ridley</hi> to Bp. <hi>Hooper,</hi> By Mr. <hi>Samuel John<g ref="char:EOLhyphen"/>son.</hi>
+            </p>
+            <p>Purgatory prov'd by Miracles: Collected out of <hi>Roman-Catholick</hi> Amthors: With some Remarkable Histories relating to <hi>British, English,</hi> and <hi>Irish</hi> Saints. With a Preface concerning their Mira<g ref="char:EOLhyphen"/>cles. by Mr. <hi>Samuel Johnson.</hi>
+            </p>
+            <p>A Seasonable Discourse, shewing the Unreasonableness and Mis<g ref="char:EOLhyphen"/>chiefs of Impositions in Matters of Religion: Recommended to seri<g ref="char:EOLhyphen"/>ous Consideration. By Mr. <hi>Andrew Marvell,</hi> late Member of Par<g ref="char:EOLhyphen"/>liament.</p>
+            <p>
+               <hi>The Revolter.</hi> A Tragi-Comedy, acted between the Hind and Panther, and <hi>Religio Laici.</hi>
+            </p>
+            <p>A Collection of Poems, Satyrs, and Songs, against Popery and Tyranny. In Four Parts.</p>
+            <pb facs="tcp:94285:19"/>
+            <p>An Answer to the Bishop of <hi>Rochester</hi>'s first and second Letters, <hi>&amp;c.</hi>
+            </p>
+            <p>A short View of the Methods made use of in <hi>Ireland,</hi> for the Sub<g ref="char:EOLhyphen"/>version and Destruction of the Protestant Religion and Interest in that Kingdom; from the beginning of the Reign of the Late King <hi>James,</hi> to this Time; and of the Suffering of the Protestants all along.</p>
+            <p>The Intreagues of the <hi>French</hi> King at <hi>Constantinople</hi> to imbroil <hi>Christendom;</hi> discover'd in several Dispatches past between him and the late Grand Signior, Grand Viz<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>er, and Count <hi>Teckley;</hi> all of them found among that Count's Papers. With some Reflection<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> up<g ref="char:EOLhyphen"/>on them.</p>
+            <p>
+               <hi>Plain English:</hi> In Relation to the real and pretended Friends to the <hi>English</hi> Monarchy. Humbly offered to the Consideration of His Majesty, and his Great Council, the Lords and Commons in Parlia<g ref="char:EOLhyphen"/>ment Assembled. <hi>The Second Edition:</hi> With a short Preface, and an Appendix, concerning the Coronation Oath administred to King <hi>James</hi> the Second.</p>
+            <p>
+               <hi>The New Nonconformist:</hi> Or, Dr. <hi>Sherlock</hi>'s Case in Preaching af<g ref="char:EOLhyphen"/>ter a Deprivation, incurr'd by the Express Words of a Statute: Fairly Stated and Examined. With short Reflections upon Mr. <hi>Cook</hi>'s Ser<g ref="char:EOLhyphen"/>mon, <hi>February</hi> the 2d, 1689/90. which was Licens'd by the Arch Bi<g ref="char:EOLhyphen"/>shop's Chaplain.</p>
+            <p>
+               <hi>The Fate of France:</hi> A Discourse wherein, after having Answered the groundless Exceptions that are made against the Lawful Conduct of the <hi>English,</hi> in securing themselves from Popish Tyranny, <hi>&amp;c.</hi> it is shewed, That by the <hi>Happy Revolution</hi> in <hi>England,</hi> all the Designs of the <hi>French</hi> King for the <hi>Ʋniversal Monarchy,</hi> are disappointed; and the Rational Grounds to believe his Downfal near. In three Dia<g ref="char:EOLhyphen"/>logues betwixt Father <hi>Petre,</hi> Father <hi>La Chaize,</hi> and two Protestant Gentlemen.</p>
+            <p>
+               <hi>The Anatomy of a Jacobite-Tory:</hi> In a Dialogue between <hi>Whig</hi> and <hi>Tory,</hi> Occasioned by the Act for Recognizing King <hi>William</hi> and Queen <hi>Mary.</hi>
+            </p>
+            <p>
+               <hi>The Great Bastard Protector of the Little One.</hi> Done out of <hi>French.</hi> And for which the <hi>French</hi> King put forth a Proclamation, with a Reward of Five thousand Louis-d'Or<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, to discover the Author.</p>
+            <p>A True Narrative of the Murthers, Cruelties and Oppressions, Perpretrated on the Protestants in <hi>Ireland,</hi> by the Late King <hi>James</hi>'s Agents, since his Arrival there. Published for the Information of the <hi>Jacobites,</hi> that endeavour his Return again.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
